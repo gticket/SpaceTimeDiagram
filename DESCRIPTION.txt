@@ -1,0 +1,11 @@
+Package:  SpaceTimeDiagram
+Version:  1.0-0
+Date:  2017-01-11
+Depends:  R (>= 3.2.5)
+Imports: 
+Title:  Space Time Diagram
+Author:  Glenn Ticket <glenn.ticket@telenet.be>
+Maintainer:  Glenn Ticket <glenn.ticket@telenet.be>
+Description:  A function for plotting simple space time diagrams.
+License:  GPL (>= 3)
+URL: https://github.com/gticket/SpaceTimeDiagram
